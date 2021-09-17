@@ -1,1 +1,0 @@
-Projeto de apresentação de um aplicativo, usando apenas HTML5 E CSS 
